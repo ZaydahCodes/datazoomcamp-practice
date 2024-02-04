@@ -1,0 +1,3 @@
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "rhapsodic_haze"}, "timestamp": 1707033385, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "load_to_gcp_copy"}, "timestamp": 1707034827, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "wavy_hill"}, "timestamp": 1707047927, "user": null}

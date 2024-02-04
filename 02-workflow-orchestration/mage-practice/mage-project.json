@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "imdb-project-411407",
-  "private_key_id": "89ca434d76865913f44cd9e4b7913127b12fef48",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCM+4OkGDN8ZzDe\nb0Gd43BQfwBLCNgpTw6Rc+bv/bUXd2eeu2L6NKaDKs8K5JVgWpVLNIHZhJSOrm20\nRtUEgvtsmNxj56Qnc3Hj58/MXLVvgjJc1jR0ZwrqTT/LFRlK2Mso8LgKCkLc2hmn\nLDV4txzMo7ovkskaPam+5Cro5HQy6N+yLor6iyf4OKbNzAuM2PQSMRAzBmOJJULX\nVElncZpHJS9A46djfczGuPDGm/czJaPYd3sRTYTGR7oOEQIewZ86jQXWGcLyh/vC\nGWUwoAwWfiKERJn1fQ296fenceGRtupL6HbUqnDznYZ9wsv969PkdEwyIYzIFCqK\n1aiX6oFPAgMBAAECggEANv1hlu9Tobn0P0ahDu8oH1WyLRJJki9CbOyKzuAkMv+B\nfNH1ZMeFjVL0x/hp5VfftKJJ5aiHc3HI25DnRKe8Xtru188B4dtvOGhyTnF42YIs\nl7Z7Zk3M3Z/8+n8DywRtlc3y0wO2mcM+T0z4nFm8E3vnQugbpa8YlxsTO5zkT/ie\nFea6fpkLNz49Nc/2nojV+o6fEUeOvaLZDoHTkB93NgF6pianNYHPr6xTC+CrlopS\nRFvVk2iLYvuTZ8OLiszYA/q1w0eC7DDoJ8fRwyIIKqdTjjvkIhlebvkzIkeIOYyG\nGazQqHABwYCGIN12inzJOMAslTn9dvNm7PiYogm1WQKBgQDAJO8mqfWGPrz3Ei5x\nBZLXoNxr1muwm0pEMmYqLlY/CZunjbdREkzgi69F5ZQnWlmLslrdsduPVr6bk/PO\nIo8l5mUSnEnpM/70NC7QJpiD+/jZFZRXSEqLIzjnNEabbPcqSQya79KPS3S1bJqs\nUSAZXpeqnXeXi8XnNyDDZzjraQKBgQC71eLJiOgYKkiphKxlXt15AmWqbTZd5ILI\nl256spRa9dNFhELugiwy7KC3cL5uBDY06gmq6k1m+MMTN5UFQNQuwuLRADRtBeLx\nWE7dGF9beKsrlUKziC7dUE+16E8Yr6eu7JUAeFAKYaX6jIQ6xnHzM1eNitgCLNRS\nEylvWKOH9wKBgGAAFBzVPf7cyb0IMHv3tO5XSMn4T8XlUK3SIIlirWTBgCuu+rBe\n3Fo0cFYT5nnjAmpxqkSp4HE1ffZtbZrIWY0uF8G8pJEHkZKhn+IP5pPLCQItbfhN\n/jCWYI/j5oMxZiySYuHmgOVnZeBfasg9oDQMtupf0qi9BRwIxy3aHO5BAoGBAIz9\n8lqGmnixHJOqE+GPgLy5cOipS5rU0NqS2InfC/7u8OQIcFkpetXKyqSHS1m3bZzw\nY8tYTjtR1NPS79fenqZvAOQSvEdtmLjCKYhKKCG4BPwU8NlkCpFzHDIWK3EDQOHL\nkdildqckPvs/iG250YTU8A49vwB69/CXk42RwkZnAoGBAKbMoiI7QbxAKD28K74z\neduuU5vHBQY+sYjGerdYOrzVD4MT4EVj4DNCtdx4Ktj7Ya0NhQxaWwDZpAiEuiFR\nQili8Tmu64i3aqg1iPwCF+ux9f56XVDl7cIJUl6XxFfupaJxa+hGneD/T7lWLJ1g\nDsjYRcNfFXXpc+dAgwhtV/Jo\n-----END PRIVATE KEY-----\n",
-  "client_email": "mage-zoomcamp@imdb-project-411407.iam.gserviceaccount.com",
-  "client_id": "107794894894823826718",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mage-zoomcamp%40imdb-project-411407.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
